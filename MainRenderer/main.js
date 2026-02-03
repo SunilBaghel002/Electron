@@ -1,4 +1,5 @@
 console.log("main process working");
+console.log('main is ready')
 
 const electron = require("electron");
 const app = electron.app;
